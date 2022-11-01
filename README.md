@@ -1,6 +1,6 @@
   ![image](/header.png)
   
-### Hola 👋, Mi nombre es Maximiliano pero puedes llamarme Maxi !
+### Bienvenido a mi GitHub 👋, Mi nombre es Maximiliano pero puedes llamarme Maxi !
 #### Soy Full Stack Developer 
 
 En mi GitHub podrás encontrar todos los proyectos en los que me encuentro trabajando y practicando para mejorar mis habilidades 🤓
