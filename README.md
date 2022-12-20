@@ -12,7 +12,7 @@ Actualmente me encuentro colaborando con un equipo de programadores en el desarr
 
 
 
-Puedes encontrar mi ultimo proyecto aqui --->  [I'm an inline-style link]([https://www.google.com](https://countries-five-coral.vercel.app/))
+Puedes encontrar mi ultimo proyecto aqui --->  [I'm an inline-style link]([https://www.google.com](https://countries-five-coral.vercel.app/)
 
 
 
