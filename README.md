@@ -6,7 +6,13 @@
 
 Tengo experiencia trabajando en las siguientes tecnologías : HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize 🛠
 
+
+
 Actualmente me encuentro colaborando con un equipo de programadores en el desarrollo de una app de reservaciones de complejos para eventos 🦾
+
+
+
+Puedes encontrar mi ultimo proyecto aqui --->  [I'm an inline-style link](https://www.google.com)
 
 
 
