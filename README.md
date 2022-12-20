@@ -12,7 +12,7 @@ Actualmente me encuentro colaborando con un equipo de programadores en el desarr
 
 
 
-Puedes encontrar mi ultimo proyecto aqui --->  (https://countries-five-coral.vercel.app/ "Countries App")
+Puedes encontrar mi ultimo proyecto aqui --->  [Countries App](https://countries-five-coral.vercel.app/)
 
 
 
