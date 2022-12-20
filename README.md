@@ -1,15 +1,13 @@
   ![image](/header.png)
   
 ### Bienvenido a mi GitHub 👋, Mi nombre es Maximiliano pero puedes llamarme Maxi !
-#### Soy Full Stack Developer 
+#### Soy Full Stack Developer 👨🏻‍💻
 
-En mi GitHub podrás encontrar todos los proyectos en los que me encuentro trabajando y practicando para mejorar mis habilidades 🤓
 
-Habilidades: NODE JS / REACT / JS / HTML / CSS
+Tengo experiencia trabajando en las siguientes tecnologías : HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres, Sequelize 🛠
 
-- 🔭 Estoy trabajando en en un proyecto personal que pronto publicare aquí... 
-- 🌱 Estoy aprendiendo DE TODO 
-- 💬 Pregúntame acerca de lo que quieras 😁 
+Actualmente me encuentro colaborando con un equipo de programadores en el desarrollo de una app de reservaciones de complejos para eventos 🦾
+
 
 
 
